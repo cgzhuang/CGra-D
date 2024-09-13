@@ -7,7 +7,7 @@ This repository contains the code and documentation for our research on Customiz
 
 ## Highlights
 
-1. **Data Generator:** Propose an innovative method for generating robotic grasping datasets which simulates real-life robotic gripper actions in a virtual setting instead of relying on manual annotations.
+1. **Data generator:** Propose an innovative method for generating robotic grasping datasets which simulates real-life robotic gripper actions in a virtual setting instead of relying on manual annotations.
 
 2. **End-to-end graph convolution network:** Design an end-to-end graph convolution grasping prediction network, which can directly predict the optimal grasping points and orientations from partial point cloud.
    
